@@ -4,9 +4,11 @@
 <small>Created by [Hakim El Hattab](http://hakim.se) / [@hakimel](http://twitter.com/hakimel)</small>
 
 ---
-## Hello There
+## Pipeline
 
-reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+<a href="#">
+<img data-src="https://github.com/mc-chris/revealjs-docker/raw/master/slides/image.png">
+</a>
 
 ---
 ## Vertical Slides
